@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Oriana0615 ✌ 
 
 - 👩🏻‍💻 Hoje trabalho com Front-end
-- 👓 Estudando Back-end
+- 👓 Estudando HTML-CSS-JAVASCRIPT-Mongo-SQLITE-API REST e NODE JS.
 - 😊 pronouns: ela/dela
+- 🤝🏻 Gosto de trabalhar em equipe
 
 <div align="center">
   <a href="https://github.com/oriana0615">
